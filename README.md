@@ -41,21 +41,35 @@ accuracy                           0.97      1115
 
 macro avg 0.96 0.95 0.96 1115
 weighted avg 0.97 0.97 0.97 1115
+
 Test Message: "Congratulations! You've won a free ticket! Call now."
 Prediction: SPAM 🚫
+
 ---
 ## 📥 **How to Run**
 1️⃣ Clone this repo or upload the notebook to Colab.  
 2️⃣ Download the dataset (`spam.csv`) from Kaggle or use the included link.  
 3️⃣ Run the notebook step-by-step  
 Test the model with your own messages!
+
+---
+
 📜 License
 This project is open-source under the MIT License — feel free to use, share, and improve it!
+
+---
+
 ✨ Author
 Dhanushya M
 🔗 GitHub
+
+---
+
 ⭐️ Show Some Love
 If you found this helpful, please ⭐️ star this repo and share it with your friends! 😊
+
+---
+
 💡 Future Improvements
             Add more training data for better real-world performance.
             Use advanced NLP models (e.g., LSTM, BERT).
